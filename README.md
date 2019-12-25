@@ -38,6 +38,7 @@ All svelte component live in `client` directory. Save any changes live-reloading
 All Crystal code lives in `src` directory. To rebuild Crystal code use crystal run after saving your changes. 
 All static files are served from `public` direcotry. Including the JS code compiled by Svelte Compiler.
 
+![screenshot](https://github.com/sachinbhutani/svelte-cr/raw/master/screenshot.png)
 
 ## Building and running in production mode
 
