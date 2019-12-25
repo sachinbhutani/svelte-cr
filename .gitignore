@@ -1,0 +1,7 @@
+/docs/
+/lib/
+/bin/
+/.shards/
+*.dwarf
+/src/auth.cr
+/node_modules/

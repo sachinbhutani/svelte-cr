@@ -1,0 +1,20 @@
+name: svelte-cr
+version: 0.1.0
+
+authors:
+  - Sachin Bhutani <sachin1705@gmail.com>
+
+targets:
+  svelte-cr:
+    main: src/svelte-cr.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+dependencies:
+  kemal-session:
+    github: kemalcr/kemal-session
+
+crystal: 0.32.1
+
+license: MIT
