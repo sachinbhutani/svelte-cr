@@ -1,7 +1,7 @@
 
 # Svelte-cr
 
-Starter template for [Svelte](https://svelte.dev) frontend apps with Crystal-Lang Kemal [Kemal](https://kemalcr.com) backend server. 
+Starter template for [Svelte](https://svelte.dev) frontend apps with Crystal-Lang [Kemal](https://kemalcr.com) backend server. 
 
 
 
