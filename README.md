@@ -24,7 +24,7 @@ npm install
 
 ...then start Kemal server and [Rollup](https://rollupjs.org) in two different terminals 
 
-Terminal 1: (To run the rust server)
+Terminal 1: (To run the kemal/crystal server)
 ```bash
 crystal run src/svelte-cr.cr --progress
 ```
