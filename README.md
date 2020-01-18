@@ -20,6 +20,7 @@ install the dependencies...
 npx degit sachinbhutani/svelte-cr svelte-cr
 cd svelte-cr
 npm install
+shards install
 ```
 
 ...then start Kemal server and [Rollup](https://rollupjs.org) in two different terminals 
